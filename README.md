@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/ingoweiss/lita-non-command-only.png?branch=master)](https://travis-ci.org/ingoweiss/lita-non-command-only)
 [![Coverage Status](https://coveralls.io/repos/ingoweiss/lita-non-command-only/badge.png)](https://coveralls.io/r/ingoweiss/lita-non-command-only)
 
-TODO: Add a description of the plugin.
+Adds a "non_command_only" option to routes which causes them to match only when not invoked as a command
 
 ## Installation
 
@@ -15,4 +15,6 @@ spec.add_runtime_dependency "lita-non-command-only"
 
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+``` ruby
+route /foo/, :bar, non_command_only: true
+```
