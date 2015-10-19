@@ -3,10 +3,10 @@ Gem::Specification.new do |spec|
   spec.version       = "0.1.0"
   spec.authors       = ["Ingo Weiss"]
   spec.email         = ["ingo@ingoweiss.com"]
-  spec.description   = "TODO: Add a description"
-  spec.summary       = "TODO: Add a summary"
-  spec.homepage      = "TODO: Add a homepage"
-  spec.license       = "TODO: Add a license"
+  spec.description   = "Adds :non_command_only option to routes which causes them to match only when not invoked as a command"
+  spec.summary       = "Adds :non_command_only option to routes which causes them to match only when not invoked as a command"
+  spec.homepage      = "https://github.com/ingoweiss/lita-non-command-only"
+  spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "extension" }
 
   spec.files         = `git ls-files`.split($/)
