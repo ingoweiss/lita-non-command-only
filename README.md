@@ -1,5 +1,6 @@
 # lita-non-command-only
 
+[![Gem Version](https://badge.fury.io/rb/lita-non-command-only.svg)](https://badge.fury.io/rb/lita-non-command-only)
 [![Build Status](https://travis-ci.org/ingoweiss/lita-non-command-only.png?branch=master)](https://travis-ci.org/ingoweiss/lita-non-command-only)
 [![Coverage Status](https://coveralls.io/repos/ingoweiss/lita-non-command-only/badge.png)](https://coveralls.io/r/ingoweiss/lita-non-command-only)
 [![Code Climate](https://codeclimate.com/github/ingoweiss/lita-non-command-only/badges/gpa.svg)](https://codeclimate.com/github/ingoweiss/lita-non-command-only)
