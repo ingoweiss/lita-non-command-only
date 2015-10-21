@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ingoweiss/lita-non-command-only.png?branch=master)](https://travis-ci.org/ingoweiss/lita-non-command-only)
 [![Coverage Status](https://coveralls.io/repos/ingoweiss/lita-non-command-only/badge.png)](https://coveralls.io/r/ingoweiss/lita-non-command-only)
+[![Code Climate](https://codeclimate.com/github/ingoweiss/lita-non-command-only/badges/gpa.svg)](https://codeclimate.com/github/ingoweiss/lita-non-command-only)
 
 Adds a "non_command_only" option to routes which causes them to match only when not invoked as a command
 
